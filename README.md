@@ -6,7 +6,8 @@ Out of the two members of our group, we pick "10036" as our ZIP code.
 In a first Jupyter notebook called Top10.ipynb, 
 we analyzed what the top 10 causes of calls to 311 are in your chosen ZIP code, 
 and calculated how many total incidents of each of these 10 types there have been in the year 2020. 
-
+The answer is a pandas.Series which is called top10 (as a Python variable), in descending order by number of incidents, 
+and containing as its labels the incident type (a string) and as associated values the total number of incidents of this type in 2020.
 
 In a second Jupyter notebook called Parking.ipynb, 
 we analyzed whether illegal parking incidents are a larger fraction of total 311 incidents in our chosen ZIP code than they are in general. 
