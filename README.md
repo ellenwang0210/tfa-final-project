@@ -11,25 +11,25 @@ and containing as its labels the incident type (a string) and as associated valu
 
 The top 10 types and numbers of incidents in the area of zip code 10036 are:
 
-Noise - Residential                    879
+1. Noise - Residential                    879
 
-Non-Emergency Police Matter            615
+2. Non-Emergency Police Matter            615
 
-Noise                                  614
+3. Noise                                  614
 
-Homeless Person Assistance             547
+4. Homeless Person Assistance             547
 
-NonCompliance with Phased Reopening    496
+5. NonCompliance with Phased Reopening    496
 
-Noise - Street/Sidewalk                456
+6. Noise - Street/Sidewalk                456
 
-Illegal Parking                        432
+7. Illegal Parking                        432
 
-Noise - Commercial                     416
+8. Noise - Commercial                     416
 
-HEAT/HOT WATER                         395
+9. HEAT/HOT WATER                         395
 
-Homeless Street Condition              374
+10. Homeless Street Condition             374
 
 
 In a second Jupyter notebook called `Parking.ipynb`, 
